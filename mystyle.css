@@ -1,0 +1,46 @@
+*
+{
+	margin:0 auto;
+}
+body
+{
+	 font-family:tahoma;
+}
+td
+{
+	padding:15px
+}
+.link1
+{
+list-style-type:none;
+margin-top:12px;
+margin-bottom:20px;
+}
+.link1 li
+{ 
+display:inline;
+}
+.link1 a
+{
+color:green;
+padding:20px;
+text-decoration:none;
+}
+.link2
+{
+list-style-type:none;
+}
+.link2 li
+{ 
+display:inline;
+}
+.link2 a
+{
+color:white;
+padding:20px;
+text-decoration:none;
+}
+.link1 a:hover
+{
+  border-bottom:solid 3px brown;
+}

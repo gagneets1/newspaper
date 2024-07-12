@@ -1,0 +1,23 @@
+body {
+    background: radial-gradient(circle, grey, white);
+  }
+#sa { border:2px black solid;
+
+}
+#content {
+    max-width:500px;
+    text-align:left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#ig {
+    height:100px;
+    width:100px;
+
+}
+#sub{
+    border:4px black solid;
+
+}
+#n{
+    font-family:'Times New Roman', Times, serif;
+}
